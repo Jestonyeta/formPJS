@@ -20,6 +20,6 @@ switch($_POST['filestart']){
 		}
 		fclose($in);
 		fclose($out);
-    } 
+        } 
 	break;
 }
